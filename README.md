@@ -30,6 +30,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 #Acknowledgments:
 
-I would like to acknowledge Posit and Appsilon who have made this project possible by providing the Packages. Their continuous support and efforts have helped create a robust and user-friendly Market Stock Predictive Analytics Dashboard.
+I would like to acknowledge Posit and David Granjon who have made this project possible by providing the Packages. Their continuous support and efforts have helped create a robust and user-friendly Market Stock Predictive Analytics Dashboard.
 
 [App Link](https://amdatasolution.shinyapps.io/Bs4Dashkobo/#)
