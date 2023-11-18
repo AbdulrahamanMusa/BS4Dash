@@ -1,10 +1,7 @@
 # My R Shiny Dashboard
-#Shiny for Python Market Stock Predictive Analytics Dashboard
-
 This project is a R shiny Analytics Dashboard The dashboard provides users with an interactive interface to analyze and predictrends.
 
 #Features:
-
 Data Visualization: The dashboard showcases various visualizations, such as line charts, bar charts, and scatter plots, to represent historical stock data and trends.
 
 Real-time Updates: The dashboard continuously updates the visualizations and predictions based on real-time stock market data, ensuring the latest information is available to users.
